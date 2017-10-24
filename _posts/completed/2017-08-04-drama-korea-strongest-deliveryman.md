@@ -25,7 +25,7 @@ modified: 2017-09-25T25:08:09+07:00
 <li>Hari : Jumat &amp; Sabtu, pk 23.00</li>
 </ul>
 <figure class="entry-thumbnail">
-<amp-img layout="responsive" height="270" width="480" src="https://i2.wp.com/kulakdrama.96.lt/wp-content/uploads/2017/08/premiere_deliveryman3.jpg?resize=600%2C381" alt="Strongest Delivery Man" title="premiere_deliveryman3" />
+<img layout="responsive" height="270" width="480" src="https://i2.wp.com/kulakdrama.96.lt/wp-content/uploads/2017/08/premiere_deliveryman3.jpg?resize=600%2C381" alt="Strongest Delivery Man" title="premiere_deliveryman3" />
 </figure>
 <h3>Pemain Strongest Deliveryman :</h3>
 <p><em>Pemain utama :</em>
