@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Hello World"
-modified:
+title: "Save Me 구해줘 - 2017"
 categories: completed
 excerpt:
-tags: []
+tags: [k-drama 2017, drakor save me, OCN]
 image:
-  feature:
+  feature: "https://i1.wp.com/kulakdrama.96.lt/wp-content/uploads/2017/08/save-me.jpg?resize=600%2C381"
 date: 2014-08-08T15:39:55-04:00
 modified: 2016-06-01T14:19:19-04:00
 ---
