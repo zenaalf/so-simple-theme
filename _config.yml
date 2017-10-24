@@ -8,7 +8,7 @@ url: http://www.drakor.ga
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /:date/:title/
 markdown:    kramdown
 highlighter: rouge
 sass:
@@ -36,7 +36,7 @@ comments: true
 
 # Site owner
 owner:
-  name: Zena Alfaza
+  name: Owalah Gitu
   avatar: michael-rose-photo.jpg
   email: michael@mademistakes.com
   disqus-shortname: oh-drama-korea-toh
