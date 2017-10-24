@@ -8,7 +8,7 @@ url: http://www.drakor.ga
 
 # Jekyll configuration
 
-permalink:   /:date/:title/
+permalink:   /:year/:month/:title/
 markdown:    kramdown
 highlighter: rouge
 sass:
