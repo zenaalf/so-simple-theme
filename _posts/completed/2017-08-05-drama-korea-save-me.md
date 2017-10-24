@@ -2,7 +2,7 @@
 layout: post
 title: "Save Me 구해줘 - 2017"
 categories: completed
-excerpt:
+excerpt: "drama korea save me ocn 2017 completed 16 episode"
 tags: [k-drama 2017, drakor save me, OCN]
 image:
   feature: "https://i1.wp.com/kulakdrama.96.lt/wp-content/uploads/2017/08/save-me.jpg?resize=600%2C381"
