@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: Oh Drama Korea Toh
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: Kumpulan link Download dan Streaming Drama Korea
 logo: site-logo.png
-url: https://mmistakes.github.io/so-simple-theme
+url: https://zenaalf.github.io/so-simple-theme
 
 # Jekyll configuration
 
@@ -36,24 +36,24 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
+  name: Zena Alfaza
   avatar: michael-rose-photo.jpg
   email: michael@mademistakes.com
-  disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
+  disqus-shortname: drakorin
+  twitter:
+  facebook: drakorin
+  github:
   stackexchange:
   linkedin:
-  instagram: mmistakes
+  instagram: drakorin
   flickr:
-  tumblr: mademistakes
+  tumblr:
   pinterest:
   weibo:
   google:
-    plus: MichaelRoseDesign
-    analytics: UA-2011187-2
-    verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 7855747535
-  bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
+    plus: zena.alf
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
