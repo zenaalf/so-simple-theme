@@ -6,8 +6,7 @@ excerpt:
 tags: [k-drama 2017, drakor save me, OCN]
 image:
   feature: "https://i1.wp.com/kulakdrama.96.lt/wp-content/uploads/2017/08/save-me.jpg?resize=600%2C381"
-date: 2014-08-08T15:39:55-04:00
-modified: 2016-06-01T14:19:19-04:00
+modified: 2017-09-26T14:19:19+07:00
 ---
 <h4>Sinopsis :</h4>
 <p>4 Pria muda yang saat ini tidak memiliki pekerjaan dan suatu hari harus menghadapi seorang wanita di sebuah gang. Dan wanita tersebut mengatakan Save Me (selamatkan aku)”. Wanita tersebut terlibat dalam kelompok religius pemujaan.</p><h3>Detail K-Drama Save Me :</h3> <ul><li>Judul : 구해줘 / Save Me</li><li>Judul lain : Rescue Me</li><li>Judul China : 救救我</li><li>Sutradara : Kim Sung Su</li><li>Penulis naskah : Jo Geum San (webcomic), Jung Yi Do</li><li>Genre : Action, Suspense, Thriller, Crime</li><li>Episode : 16 (Confirmed, Completed)</li><li>Broadcast network : OCN</li><li>Periode tayang : 5 Agustus – 24 September 2017</li><li>Hari : Sabtu &amp; Minggu, pk 22:20</li></ul>
