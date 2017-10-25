@@ -6,6 +6,7 @@ image:
  featureext: "https://i2.wp.com/kulakdrama.96.lt/wp-content/uploads/2017/08/premiere_deliveryman3.jpg?resize=600%2C381"
 category: completed
 tags: [k-drama 2017, OCN, drakor save me]
+share: true
 modified: 2017-09-25T11:17:09+07:00
 ---
 {% if page.excerpt %}
