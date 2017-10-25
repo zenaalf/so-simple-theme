@@ -5,7 +5,7 @@ excerpt: Drama korea strongest deliveryman 2017 completed 16 episode
 image:
  featureext: "https://i2.wp.com/kulakdrama.96.lt/wp-content/uploads/2017/08/premiere_deliveryman3.jpg?resize=600%2C381"
 category: completed
-tags: [k-drama 2017, drakor strongest deliveryman, KBS2]
+tags: [k-drama 2017, KBS2, drakor strongest deliveryman]
 modified: 2017-09-25T25:08:09+07:00
 ---
 
