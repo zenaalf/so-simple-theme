@@ -6,6 +6,7 @@ image:
  featureext: "https://i1.wp.com/kulakdrama.96.lt/wp-content/uploads/2017/08/save-me.jpg?resize=600%2C381"
 category: completed
 tags: [k-drama 2017, OCN, drakor save me]
+share: true
 modified: 2017-09-26T19:17:09+07:00
 ---
 {% if page.excerpt %}
