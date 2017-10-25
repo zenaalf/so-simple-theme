@@ -6,6 +6,7 @@ image:
  featureext: "https://i0.wp.com/kulakdrama.96.lt/wp-content/uploads/2017/10/maddog-poster1.jpg?resize=600%2C315"
 category: on-going
 tags: [k-drama 2017, KBS2, drakor mad dog]
+share: true
 modified: 2017-10-25T16:17:09+07:00
 ---
 {% if page.excerpt %}
