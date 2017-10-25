@@ -1,108 +1,137 @@
 ---
 layout: post
-title: "Strongest Deliveryman 最強送貨員 - 2017"
-excerpt: Drama korea strongest deliveryman 2017 completed 16 episode
+title: "Strongest Deliveryman 최강 배달꾼 - 2017"
+excerpt: "Serial Strongest Deliveryman ini menggambarkan tentang cinta dan kesuksesan seorang deliveryman (kurir) yang akhirnya menjadi CEO sebuah perusahaan aplikasi pengiriman dan membuka jalannya untuk meraih cinta dan kesuksesan."
 image:
  featureext: "https://i2.wp.com/kulakdrama.96.lt/wp-content/uploads/2017/08/premiere_deliveryman3.jpg?resize=600%2C381"
 category: completed
-tags: [k-drama 2017, KBS2, drakor strongest deliveryman]
-modified: 2017-09-25T25:08:09+07:00
+tags: [k-drama 2017, OCN, drakor save me]
+modified: 2017-09-25T11:17:09+07:00
 ---
+{% if page.excerpt %}
+### Sinopsis
 
-<h4>Sinopsis</h4>
-<p>Serial <em>Strongest Deliveryman</em> ini menggambarkan tentang cinta dan kesuksesan seorang <em>deliveryman</em> (kurir) yang akhirnya menjadi CEO sebuah perusahaan aplikasi pengiriman dan membuka jalannya untuk meraih cinta dan kesuksesan.</p>
-<h3>Detail Strongest Deliveryman :</h3>
-<ul>
-<li>Judul : Strongest Deliveryman</li>
-<li>Judul China : 最強送貨員</li>
-<li>Judul lain : Best Delivery Person</li>
-<li>Sutradara : Jeon Woo Sung</li>
-<li>Penulis naskah : Lee Jung Woo</li>
-<li>Channel : KBS2</li>
-<li>Episode : 16 (30 menit/per episode)</li>
-<li>Jadwal tayang : 4 Agustus – 23 September 2017</li>
-<li>Hari : Jumat &amp; Sabtu, pk 23.00</li>
-</ul>
-<figure class="entry-thumbnail">
-<img layout="responsive" height="270" width="480" src="https://i2.wp.com/kulakdrama.96.lt/wp-content/uploads/2017/08/premiere_deliveryman3.jpg?resize=600%2C381" alt="Strongest Delivery Man" title="premiere_deliveryman3" />
-</figure>
-<h3>Pemain Strongest Deliveryman :</h3>
-<p><em>Pemain utama :</em>
-<ul>
-<li>Go Gyung Pyo sebagai Choi Kang Soo</li>
-<li>Chae Soo Bin sebagai Lee Dan Ah</li>
-<li>Kim Sun Ho sebagai Oh Jin Gyoo</li>
-<li>Go Won Hee sebagai Lee Jin Yoon</li>
-<li>Nam Ji Hyun sebagai Choi Yun Ji</li>
-</ul>
-<em>Lainnya :</em>
-<ul>
-<li>Kim Hye Ri</li>
-<li>Lee Won Jong</li>
-<li>Jo Hee Bong</li>
-<li>Lee Min Young</li>
-<li>Kim Ki Doo</li>
-<li>Lee Kan Hee</li>
-<li>Ye Soo Jung</li>
-<li>Heo Ji Won</li>
-<li>Kang Bong Sung</li>
-<li>Jung Ik Han (정익한)</li>
-<li>Kim Min Suk (김민석)</li>
-</ul></p>
-<h3>Teaser Preview</h3>
-<amp-youtube data-videoid="2k2TAvFGiog" layout="responsive" height="315" width="560"></amp-youtube>
-<h3>Link Download</h3>
-<p>Jika pada saat mengunduh file terjadi error khususnya di G-Drive, Lakukan Refresh halaman beberapa kali sampai file unduhan muncul. Subtitle: via <a href="https://subscene.com/subtitles/Strongest-deliveryman-choigang-baedalkkun" rel="noopener noreferer">subscene</a> untuk RAW (720p), untuk 360p sudah Hardsub Bahasa Indonesia</p>
-<p>Episode 1</p>
-<p>360p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B9zQoX327iIlMnpxWVZkQVFObXc">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=s0mPRoi0iHU&name=Strongest.Deliveryman.E01.360p.mp4">Openload </a> <a class="btn btn-success" href="http://adfree.ga?dom=tusfiles.net&code=7ps8ldjuiuuk&name=Strongest.Deliveryman.E01.360p-.mp4">Tusfiles</a></p>
-<p>720p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B9zQoX327iIlUzM5Q1RRTDR0ZnM">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=SvLQIUJX-kE&name=Strongest.Deliveryman.E01.720p.mkv.mp4">Openload</a> <a class="btn btn-success" href="http://adfree.ga?dom=tusfiles.net&code=n151o804wyd0&name=Strongest.Deliveryman.E01-.mkv.mp4">Tusfiles</a></p>
-<p>Episode 2</p>
-<p>360p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B9zQoX327iIlaFhnTjRmVGxZNVU">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=nMvmId_nijM&name=Strongest.Deliveryman.E02.360p.mp4">Openload </a> <a class="btn btn-success" href="http://adfree.ga?dom=tusfiles.net&code=4p367aim6eq7&name=Strongest.Deliveryman.E02.360p-.mp4">Tusfiles</a></p>
-<p>720p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B9zQoX327iIlNXQ0NDdvTThUS0U">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=KbVe5iWFOZM&name=Strongest.Deliveryman.E02.720p.mkv.mp4">Openload</a> <a class="btn btn-success" href="http://adfree.ga?dom=tusfiles.net&code=53zoq9grqn1u&name=Strongest.Deliveryman.E02-.mkv.mp4">Tusfiles</a></p>
-<p>Episode 3</p>
-<p>360p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B9zQoX327iIlQ1k4LUp2S3hLT1E">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=xLHmz2G0alU&name=Strongest.Deliveryman.E03.360p-id.mp4">Openload </a> <a class="btn btn-success" href="http://adfree.ga?dom=tusfiles.net&code=le10jd4jnj9t&name=Strongest.Deliveryman.E03.360p-id.mp4">Tusfiles</a></p>
-<p>540p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B9zQoX327iIlZ290TEU0QUlraGM">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=ww_JNzPPj24&name=Strongest.Deliveryman.E03.170811.HDTV.H264.540p-SS.mkv.mp4">Openload</a> <a class="btn btn-success" href="http://adfree.ga?dom=tusfiles.net&code=alpdisoxq7ww&name=Strongest.Deliveryman.E03.170811.HDTV.H264.540p-SS-.mkv">Tusfiles</a></p>
-<p>720p : <span class="btn btn-disabled">Google Drive</span> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=3f6sMJpllHc&name=Strongest.Deliveryman.E03.HDTV.x264.720p-REM.mkv.mp4">Openload</a> <a class="btn btn-success" href="http://adfree.ga?dom=tusfiles.net&code=mgpb82xpw888&name=Strongest.Deliveryman.E03.HDTV.REM.mkv">Tusfiles</a></p>
-<p>Episode 4</p>
-<p>360p :<a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B9zQoX327iIlenhUWGlJZ2c0ZTg"> Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=8O4FtgUt6iI&name=Strongest.Deliveryman.E04.360p-id.mp4">Openload </a> <a class="btn btn-success" href="http://adfree.ga?dom=tusfiles.net&code=d3g85ffpmlyy&name=Strongest.Deliveryman.E04.360p-id-.mp4">Tusfiles</a></p>
-<p>540p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B9zQoX327iIlZU1NeU1KanpTbU0">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=-JzbYPsSdMo&name=Strongest.Deliveryman.E04.170812.HDTV.H264.540p-SS.mkv.mp4">Openload</a> <a class="btn btn-success" href="http://adfree.ga?dom=tusfiles.net&code=qnkaem9caouu&name=Strongest.Deliveryman.E04.170812.HDTV.H264.540p-SS-.mkv">Tusfiles</a></p>
-<p>720p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B9zQoX327iIleFhyX3BFazFwV1k">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=uKAoIXfKPnk&name=Strongest.Deliveryman.E04.HDTV.x264.720p-REM.mkv.mp4">Openload</a> <a class="btn btn-success" href="http://adfree.ga?dom=tusfiles.net&code=36gdtz56aas9&name=Strongest.Deliveryman.E04.HDTV-REM-.mkv">Tusfiles</a></p>
-<p>Episode 5</p>
-<p>360p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B_XHgc9kZqwQclJNQVRGc19wM2s">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=zRwXlUjVQz0&name=Strongest.Deliveryman.E05.360p.mp4">Openload </a> <a class="btn btn-success" href="http://adfree.ga?dom=tusfiles.net&code=7ugld9vwcrk6&name=Strongest.Deliveryman.E05.360p-.mp4">Tusfiles</a></p>
-<p>720p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B_XHgc9kZqwQWEpYVGk2T0FVa1k">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=wm_qxlAC-zE&name=Strongest.Deliveryman.E05.720p.mkv.mp4">Openload </a> <a class="btn btn-success" href="http://adfree.ga?dom=tusfiles.net&code=f7dm7iuf9jwk&name=Strongest.Deliveryman.E05-.mkv.mp4">Tusfiles</a></p>
-<p>Episode 6</p>
-<p>360p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B06qp4iVUkx8cHlUTkc5M2RoZ0U">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=VNLuhPJTgow&name=Strongest.Deliveryman.E06.360p.mp4">Openload </a> <a class="btn btn-success" href="http://adfree.ga?dom=tusfiles.net&code=xg7q9lmdz6hw&name=Strongest.Deliveryman.E06.360p-.mp4">Tusfiles</a></p>
-<p>720p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B_XHgc9kZqwQVkFHdHN1MVotSlU">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=6zfg_xjLrhY&name=Strongest.Deliveryman.E06.720p.mkv.mp4">Openload </a> <a class="btn btn-success" href="http://adfree.ga?dom=tusfiles.net&code=zim20b0oxyvh&name=Strongest.Deliveryman.E06.mkv.mp4">Tusfiles</a></p>
-<p>Episode 7</p>
-<p>360p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B06qp4iVUkx8RHAxb0ZVOXFaRm8">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=H8k_k5jTCgQ&name=Strongest.Deliveryman.E07.360p-id.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>720p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B06qp4iVUkx8a3lLaXNSdWJrY1k">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=WpLHZCJ-odM&name=Strongest.Deliveryman.E07.170825.HDTV.H264.720p-SS.mkv.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>Episode 8</p>
-<p>360p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B06qp4iVUkx8cTFIdlF1d3FyREU">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=nChXjjrCLG8&name=Strongest.Deliveryman.E08.360p-id.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>720p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B06qp4iVUkx8dHc0Q2pMVUs3YXM">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=pRyW4dqZ7w4&name=Strongest.Deliveryman.E08.720p.mkv.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>Episode 9</p>
-<p>360p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B387gMJkFaWzSEVQdlpWdHQ3ZUU">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=O850AyUmsY0&name=Strongest.Deliveryman.E09.360p-id.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>720p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B387gMJkFaWzSEVQdlpWdHQ3ZUU">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=pRyW4dqZ7w4&name=Strongest.Deliveryman.E08.720p.mkv.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>Episode 10</p>
-<p>360p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B387gMJkFaWzVkFzSERPSzEtUXc">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=W-NXUguG9n0&name=Strongest.Deliveryman.E10.360p-id.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>720p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B387gMJkFaWzd1ZNcm1kcXpBM2c">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=ibtShJF-Yec&name=Strongest.Deliveryman.E10.170902.HDTV.H264.720p-SS.mkv.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>Episode 11</p>
-<p>360p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B387gMJkFaWzLTA1M2RKMmhQU1U">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=mo3o3saA2e8&name=Strongest.Deliveryman.E11.360p-id-.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>720p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B387gMJkFaWzLTNqdk1Kd25xb0k">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=HQ4TaTnPBAM&name=Strongest.Deliveryman.E11.720p.mkv.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>Episode 12</p>
-<p>360p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B387gMJkFaWzN3NTM3ZvMHZEM2s">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=RhcnBhdCk8o&name=Strongest.Deliveryman.E12.360p-id-.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>720p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B387gMJkFaWzcUJLT3lCZENaRWM">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=jE2btlxtyyk&name=Strongest.Deliveryman.E12.170909.HDTV.H264.720p-SS.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>Episode 13</p>
-<p>360p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B387gMJkFaWzV3RBSnJKVElmdk0">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=IKk33sxkTH8&name=Strongest.Deliveryman.E13.360p-id-.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>720p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B387gMJkFaWzZFpla1VrYnNiRUU">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=IKk33sxkTH8&name=Strongest.Deliveryman.E13.360p-id-.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>Episode 14</p>
-<p>360p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B387gMJkFaWzOWM3Q0FiWG5lWG8">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=O6gmSJEPodk&name=Strongest.Deliveryman.E14.360p-id-.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>720p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B387gMJkFaWzQldPWUxrQnJIeTQ">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=WAZpiQqA4WI&name=Strongest.Deliveryman.E14.170916.HDTV.H264.SS.mkv.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>Episode 15</p>
-<p>360p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B387gMJkFaWzbFBLbnVwSE1vRUk">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=fneO1iKNMEI/Save.Me.E15.360p-id-.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>720p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B387gMJkFaWzS0k0SmpQc0lZbmc">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=DZIyxq8XysQ&name=Strongest.Deliveryman.E15.170922.HDTV.H264._-SS.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>Episode 16</p>
-<p>360p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B387gMJkFaWzOGszaVVBZlpBUEU">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=HDQZwWSqT60&name=Strongest.Deliveryman.E16.end.360p-id-.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>720p : <a class="btn btn-success" href="//mi.knoacc.org/dl/drive?id=0B387gMJkFaWzZ1FZb1ROaEk1bjA">Google Drive</a> <a class="btn btn-success" href="http://adfree.ga?dom=oload.stream&code=IUq6Y9BBau4&name=Strongest.Deliveryman.E16.END.720p.mp4">Openload</a> <span class="btn btn-disabled">Tusfiles</span></p>
-<p>END</p>
-<h3>Subtitle</h3>
-<p><a class="btn btn-info" href="https://subscene.com/subtitles/Strongest-deliveryman-choigang-baedalkkun" rel="noopener noreferer">Subtitle Indonesia</a></p>
+{{ page.excerpt }}
+{% endif %}
+## Detail K-Drama Strongest Deliveryman :
+
+- Judul : 최강 배달꾼 / Strongest Deliveryman
+- Judul China : 最強送貨員
+- Judul lain : Best Delivery Person
+- Sutradara : Jeon Woo SungPenulis naskah : Lee Jung Woo
+- Channel : KBS2
+- Episode : 16 (30 menit/per episode)
+- Jadwal tayang : 4 Agustus – 23 September 2017
+- Hari : Jumat & Sabtu, pk 23.00
+
+## Daftar Pemain Save Me :
+
+### Pemain utama :
+- Go Gyung Pyo sebagai Choi Kang Soo
+- Chae Soo Bin sebagai Lee Dan Ah
+- Kim Sun Ho sebagai Oh Jin Gyoo
+- Go Won Hee sebagai Lee Jin Yoon
+- Nam Ji Hyun sebagai Choi Yun Ji
+
+### Lainnya :
+- Kim Hye Ri
+- Lee Won Jong
+- Jo Hee Bong
+- Lee Min Young
+- Kim Ki Doo
+- Lee Kan Hee
+- Ye Soo Jung
+- Heo Ji Won
+- Kang Bong Sung
+- Jung Ik Han (정익한)
+- Kim Min Suk (김민석)
+
+## Teaser Preview
+
+<iframe src="https://www.youtube.com/embed/2k2TAvFGiog" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+## Link Download
+
+> Scroll mentok kebawah tunggu sebentar sebelum klik link download.
+
+**Subtitle** via [subscene.com](#){:.btn onclick="window.open('https://subscene.com/subtitles/Strongest-deliveryman-choigang-baedalkkun', '_blank');return false;"}
+
+### Episode 1
+**480p** [TF](#){:.btn onclick="window.open('http://adfree.ga?dom=tusfiles.net&code=yxd5stjynml2&name=Link&size=Ready', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?hash=EPgyRLoR!RjT4wKbFIaRGrgUIrYEfkeJROv5HvZQd0b5soyZsTCk&name=Link&size=Ready', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=1fe7vgbhqcnw', '_blank');return false;"}
+
+**540p** [TF](#){:.btn onclick="window.open('http://adfree.ga?dom=tusfiles.net&name=Link&size=Ready&code=59tt3tvj16fb', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=Uf5glAAL!pdumwCtJMTuZWrZUPJPEgKrdyjm6BYzFtX9T2Zu7ISU', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=wmwmc4tvcil2', '_blank');return false;"}
+
+### Episode 2
+**480p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=ec74msa4tv5d', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=dXQkxTYb!bPOVlMcWy5ggy5nAi6eWTxkbp4wONIXEse8APFKi4zI', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=ia5kpvdgcamq', '_blank');return false;"}
+
+**540p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=sjsz7t17ptu5', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=YaZV0bRI!yOFL0fLW2czdjfuK4j4Lv7I5qXI7W_W5YC77AeckzIo', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=7klybc9od6nz', '_blank');return false;"} 
+
+### Episode 3
+**480p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=ahvp9owebxd6', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=E3oHBJIT!0Q2VbOvdmd3G07hSXyaEy89wx2QLhl5YC3QByFHOiOo', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=nqbokk9mlvud', '_blank');return false;"}
+
+**540p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=lch3jhd5lkua', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=0r4wQbBT!3pNNjFMY6vI9kpvSo5VFVRsa-4Lq5q-Xha9FkhWrp9w', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=zppfyoo39vtt', '_blank');return false;"}
+
+### Episode 4
+**480p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=6pvubti3ngfm', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=E6AxVQRZ!asf0XfFS4086WI6XlEOLzkMmEn2s6ijDBSr2ZFdC37U', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=x0392q8ye49a', '_blank');return false;"}
+
+**540p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=txpg8tus4d0t', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=Q3BjUYqL!gLWKf8XQM_VrM26SvWPfZX-hxrDVr5n_O1xENXwtWR8', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=z4ikccarjipr', '_blank');return false;"} 
+
+### Episode 5
+**480p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=cxrvzjutx3ix', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=FuJEhJAS!GJ2bX7M3980btpvdwxawiX-KEBujnDKooh613CTPZEo, '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=hkkbgsdwtqpx', '_blank');return false;"}
+
+**540p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=mh6afn1kq1bn', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=pyIjhCrJ!tGvRWvbCBo4g2wK4a7wtEvog3ijz1pggLzCp4HmI_-Q', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=at7gw8moujpk', '_blank');return false;"}
+
+### Episode 6
+**480p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=kljbgxbzah7i', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=NrgxBKoD!MgG8sUUiwUoiGJCxnJvxTzi3uQ-M-c0nSV0ZUUcZkGA', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=gwqk8sdamr0b', '_blank');return false;"}
+
+**540p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=48h3lhc72qpw', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=IyxgFaSL!riCSJQvGn-uIjUwze5D6nROcgFpOjbBgkaduEHoAr1c'', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=iz3x6pptpkb7', '_blank');return false;"}
+
+### Episode 7
+**480p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=wfky3j0hhm0o', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=YyZyib5b!dy4YB3nLujg7rK_mXII6hBzRapzZ7UImw62SfniYN2I', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=4e5sdszu8o4v', '_blank');return false;"}
+
+**540p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=s7j6yw2vnkgy', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=c2Jx0bIb!MXB7b2Xoz-flKlwDO5zRpmMHuy1V6T57Bgf6_5cpOzw', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=xa3ochxsk51y', '_blank');return false;"} 
+
+### Episode 8
+**480p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=qpdu76gshoyk', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=RiYjwCaS!BojxIIqthwOcGA-yGt9fQbH-IgzmkMdtbT6GK6TaUew', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=5wck2h51p4c7', '_blank');return false;"}
+
+**540p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=r1rdozb5b4wk', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=RrhBVSbI!p56_ZK4UAHmas83xNQ0MG8X3XaqaB23sMnp2UCUlsVs', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=h37vlml0zhd0', '_blank');return false;"}
+
+### Episode 9
+**480p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=bqbcxking0ex', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=pr4Tmaia!6R3aWyzJ-L4fAMt54RPqtV-J2_G11KmOpK9nkJYWq0E', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=cadem51u7rop', '_blank');return false;"}
+
+**540p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=63ivm194h9d4', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=J3R32TQI!-sV1SmkHsmC2IPuQGhk36SVgUzJJ_Hyqg9rZ0Yr4wQY', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=ks1vdunrs9je', '_blank');return false;"}
+
+### Episode 10
+**480p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=0oi3eev4jerg', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=U2AihTJb!cVLgCOjMplVrJ4wo4_PGkDFZIDwlU5ratAKA76NeBeo', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=6mutp38vp3l2', '_blank');return false;"}
+
+**540p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=f9wq4t9sqi14', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=kiAWxY5R!YM7zBn4hD5jAz1Gv8uvO_Dy-BMAW0S1ObE6CLLAvXXA', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=2kcw6hdz0gnr', '_blank');return false;"}
+
+### Episode 11
+**480p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=7lnlrd1sri4o', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=wron1ZjY!m0jhbj37pyKSgwGXKGDoqKdYRSkI3SBb5L0jqq75k7E', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=ur0u165zb9fe', '_blank');return false;"}
+
+**540p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=eqobcc0i5yy6', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=kq4EXLLS!v7-ifj1lqDmCykdaW2if4esPrDA9y-L1PYIyygts-rQ', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=jzmuw5kqgj5u', '_blank');return false;"}
+
+### Episode 12
+**480p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=7aw7ptsyt2m3', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=wq5RVIJD!SPJCwK24mCPg01upu6VOvxhcKXELFyYjthZxTKm4Roc', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=u2ylh6ox6oy3', '_blank');return false;"}
+
+**540p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=9ftfoj4p9ysz', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=I3pmDADC!UooEfdkjYrPxmjDoUtg4V0Grn4jBbVWZdlqhss5FLJ8', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=pigszh8qjn58', '_blank');return false;"}
+
+### Episode 13
+**480p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=ji94va4gfw80', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=9roEHTiB!wA2CCLiUiPSgvyxlL6ARbqwYHxCXiLMeCyXZkZevgM4', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=oprks2omadg0', '_blank');return false;"}
+
+**540p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=2iq3xb0wcgdw', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=BiAjgbZK!1uevHEEQJp2dABXybrfYktR3LybXNcB70XVwJkr68oI', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=imughgcn7217', '_blank');return false;"}
+
+### Episode 14
+**480p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=8v5bg7lndn3u', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=MzIRmZJQ!R4L74b93d9Wc1g9-5T6RyPvjJcfuY3DT382Ln3YppMM', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=t4a62ernatq7', '_blank');return false;"}
+
+**540p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=5b6m1pt0ubej', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=s3wBFISB!Vl-JbCA0CPHC0UpdOkTCQOfRCCZEYAXwLh3TLRgIIyc', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=z6swhfi0s300', '_blank');return false;"}
+
+### Episode 15
+**480p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=cxlfkmuqugvn', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=EyBTGAjI!4HTamsOOIGtr1pOMuCNK5UwtHLzRwHZx5najFYQOu84', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=2jkglhrfvcni', '_blank');return false;"}
+
+**540p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=4lx1zmcsd4pw', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=MvogmYTK!XfwcKNaQC1yAybKkhMAV2UxB5ERgrF1D6Cg0lklIjeY', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=0dask9f606yu', '_blank');return false;"}
+
+### Episode 16
+**480p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=fvfp4wyq0yxy', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=ouQSRBDQ!6dwn5QYtJVf9AHAhy7G4L0sIqURM3Sj9Xsf_nMpILik', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=4yrr14bl6pt5', '_blank');return false;"}
+
+**540p** [TF](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=tusfiles.net&code=wsuub2kixymz', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=Nyw2jKqC!zXKHmyrFWUCfJFg-SWwnNorypBYYPP23aNnbYcugywo', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=lli0uvri0zqy', '_blank');return false;"}
