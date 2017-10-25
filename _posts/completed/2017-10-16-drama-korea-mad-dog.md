@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mad Dog 매드독 - 2017"
-excerpt: "Drama ini berfokus pada realitas Korea Selatan dengan asuransi jiwa penipuan. Dimana seorang bernama Choi Kang Woo digunakan untuk menjadi detektif, sekarang bekerja sebagai peneliti bagi perusahaan asuransi. Dia memimpin tim mencoba untuk menemukan kebenaran tentang penipuan dalam asuransi jiwa."
+excerpt: "Drama ini berfokus pada realitas Korea Selatan dengan penipuan asuransi jiwa. Dimana seorang bernama Choi Kang Woo sebelumnya menjadi detektif, sekarang bekerja sebagai peneliti bagi perusahaan asuransi. Dia memimpin timnya mencoba untuk menemukan kebenaran sebuah kasus penipuan dalam asuransi jiwa."
 image:
  featureext: "https://i0.wp.com/kulakdrama.96.lt/wp-content/uploads/2017/10/maddog-poster1.jpg?resize=600%2C315"
 category: on-going
