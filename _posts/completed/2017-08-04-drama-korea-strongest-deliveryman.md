@@ -11,7 +11,6 @@ modified: 2017-09-25T25:08:09+07:00
 
 <h4>Sinopsis</h4>
 <p>Serial <em>Strongest Deliveryman</em> ini menggambarkan tentang cinta dan kesuksesan seorang <em>deliveryman</em> (kurir) yang akhirnya menjadi CEO sebuah perusahaan aplikasi pengiriman dan membuka jalannya untuk meraih cinta dan kesuksesan.</p>
-<noscript><img src="//repo.knoacc.org/images/kdrama.jpg"/></noscript>
 <h3>Detail Strongest Deliveryman :</h3>
 <ul>
 <li>Judul : Strongest Deliveryman</li>
