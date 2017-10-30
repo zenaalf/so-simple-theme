@@ -90,7 +90,7 @@ Mereka berdua menyesal menikah di usia muda. Mereka kemudian melakukan perjalana
 - Status tayang: {{ page.category }}
 
 ## Daftar Pemain {{ page.data.judul }}
-###Pemain utama :
+### Pemain utama :
 - Son Ho Joon sebagai Choi Ban Do
 - Jang Na Ra sebagai Ma Jin Joo
 
@@ -126,58 +126,46 @@ Mereka berdua menyesal menikah di usia muda. Mereka kemudian melakukan perjalana
 > Scroll mentok kebawah tunggu sebentar sebelum klik link download.
 
 {% if page.data.subscene }
-**Subtitle {{ page.title }}** via
-[subscene.com](#){:.btn onclick="window.open('https://subscene.com/subtitles/{{ page.data.subscene }}/', '_blank');return false;"}{:.btn}
+
+**Subtitle {{ page.title }}** 
+<a class="btn" href="#" onclick="window.open('https://subscene.com/subtitles/{{ page.data.subscene }}/', '_blank'">via subscene.com</a>
+
 {% endif %}
 
 {% if page.episode.1 %}
 ### Episode 1 {{ page.data.judul }}
 
-[UB](#){:.btn onclick="window.open('http://adfree.ga?dom=uptobox.com&{{ page.episode.1.ub }}&name=Link&size=Ready', '_blank');return false;"} [DA](#){:.btn onclick="window.open('http://adfree.ga?dom=downace.com&{{ page.episode.1.da }}&name=Link&size=Ready', '_blank');return false;"} [TF](#){:.btn onclick="window.open('http://adfree.ga?dom=tusfiles.net&{{ page.episode.1.tf }}&name=Link&size=Ready', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?hash={{ page.episode.1.mg }}&name=Link&size=Ready', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code={{ page.episode.1.uc }}', '_blank');return false;"}
+<a class="btn" href="#" onclick="http://adfree.ga?dom=uptobox.com&{{ page.episode.1.ub }}&name=Link&size=Ready', '_blank');return false;">UB</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?dom=downace.com&{{ page.episode.1.da }}&name=Link&size=Ready', '_blank');return false;">DA</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?dom=tusfiles.net&{{ page.episode.1.tf }}&name=Link&size=Ready', '_blank');return false;">TF</a> <a class="btn" href="#" onclick="window.open('https://mi.knoacc.org/dl/mega?hash={{ page.episode.1.mg }}&name=Link&size=Ready', '_blank');return false;">MG</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code={{ page.episode.1.uc }}', '_blank');return false;">UC</a>
 
 {% endif %}
 
 {% if page.episode.2 %}
 ### Episode 2 {{ page.data.judul }}
 
-[UB](#){:.btn onclick="window.open('http://adfree.ga?dom=uptobox.com&{{ page.episode.2.ub }}&name=Link&size=Ready', '_blank');return false;"} [DA](#){:.btn onclick="window.open('http://adfree.ga?dom=downace.com&{{ page.episode.2.da }}&name=Link&size=Ready', '_blank');return false;"} [TF](#){:.btn onclick="window.open('http://adfree.ga?dom=tusfiles.net&{{ page.episode.2.tf }}&name=Link&size=Ready', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?hash={{ page.episode.2.mg }}&name=Link&size=Ready', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code={{ page.episode.2.uc }}', '_blank');return false;"}
-
-{% endif %}
+<a class="btn" href="#" onclick="http://adfree.ga?dom=uptobox.com&{{ page.episode.2.ub }}&name=Link&size=Ready', '_blank');return false;">UB</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?dom=downace.com&{{ page.episode.2.da }}&name=Link&size=Ready', '_blank');return false;">DA</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?dom=tusfiles.net&{{ page.episode.2.tf }}&name=Link&size=Ready', '_blank');return false;">TF</a> <a class="btn" href="#" onclick="window.open('https://mi.knoacc.org/dl/mega?hash={{ page.episode.2.mg }}&name=Link&size=Ready', '_blank');return false;">MG</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code={{ page.episode.2.uc }}', '_blank');return false;">UC</a>
 {% if page.episode.3 %}
 ### Episode 3 {{ page.data.judul }}
 
-[UB](#){:.btn onclick="window.open('http://adfree.ga?dom=uptobox.com&{{ page.episode.3.ub }}&name=Link&size=Ready', '_blank');return false;"} [DA](#){:.btn onclick="window.open('http://adfree.ga?dom=downace.com&{{ page.episode.3.da }}&name=Link&size=Ready', '_blank');return false;"} [TF](#){:.btn onclick="window.open('http://adfree.ga?dom=tusfiles.net&{{ page.episode.2.tf }}&name=Link&size=Ready', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?hash={{ page.episode.3.mg }}&name=Link&size=Ready', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code={{ page.episode.3.uc }}', '_blank');return false;"}
-
-{% endif %}
+<a class="btn" href="#" onclick="http://adfree.ga?dom=uptobox.com&{{ page.episode.3.ub }}&name=Link&size=Ready', '_blank');return false;">UB</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?dom=downace.com&{{ page.episode.3.da }}&name=Link&size=Ready', '_blank');return false;">DA</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?dom=tusfiles.net&{{ page.episode.3.tf }}&name=Link&size=Ready', '_blank');return false;">TF</a> <a class="btn" href="#" onclick="window.open('https://mi.knoacc.org/dl/mega?hash={{ page.episode.3.mg }}&name=Link&size=Ready', '_blank');return false;">MG</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code={{ page.episode.3.uc }}', '_blank');return false;">UC</a>
 {% if page.episode.4 %}
 ### Episode 4 {{ page.data.judul }}
 
-[UB](#){:.btn onclick="window.open('http://adfree.ga?dom=uptobox.com&{{ page.episode.4.ub }}&name=Link&size=Ready', '_blank');return false;"} [DA](#){:.btn onclick="window.open('http://adfree.ga?dom=downace.com&{{ page.episode.4.da }}&name=Link&size=Ready', '_blank');return false;"} [TF](#){:.btn onclick="window.open('http://adfree.ga?dom=tusfiles.net&{{ page.episode.4.tf }}&name=Link&size=Ready', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?hash={{ page.episode.4.mg }}&name=Link&size=Ready', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code={{ page.episode.4.uc }}', '_blank');return false;"}
-
-{% endif %}
+<a class="btn" href="#" onclick="http://adfree.ga?dom=uptobox.com&{{ page.episode.4.ub }}&name=Link&size=Ready', '_blank');return false;">UB</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?dom=downace.com&{{ page.episode.4.da }}&name=Link&size=Ready', '_blank');return false;">DA</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?dom=tusfiles.net&{{ page.episode.4.tf }}&name=Link&size=Ready', '_blank');return false;">TF</a> <a class="btn" href="#" onclick="window.open('https://mi.knoacc.org/dl/mega?hash={{ page.episode.4.mg }}&name=Link&size=Ready', '_blank');return false;">MG</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code={{ page.episode.4.uc }}', '_blank');return false;">UC</a>
 {% if page.episode.5 %}
 ### Episode 5 {{ page.data.judul }}
 
-[UB](#){:.btn onclick="window.open('http://adfree.ga?dom=uptobox.com&{{ page.episode.5.ub }}&name=Link&size=Ready', '_blank');return false;"} [DA](#){:.btn onclick="window.open('http://adfree.ga?dom=downace.com&{{ page.episode.5.da }}&name=Link&size=Ready', '_blank');return false;"} [TF](#){:.btn onclick="window.open('http://adfree.ga?dom=tusfiles.net&{{ page.episode.5.tf }}&name=Link&size=Ready', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?hash={{ page.episode.5.mg }}&name=Link&size=Ready', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code={{ page.episode.5.uc }}', '_blank');return false;"}
-
-{% endif %}
+<a class="btn" href="#" onclick="http://adfree.ga?dom=uptobox.com&{{ page.episode.5.ub }}&name=Link&size=Ready', '_blank');return false;">UB</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?dom=downace.com&{{ page.episode.5.da }}&name=Link&size=Ready', '_blank');return false;">DA</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?dom=tusfiles.net&{{ page.episode.5.tf }}&name=Link&size=Ready', '_blank');return false;">TF</a> <a class="btn" href="#" onclick="window.open('https://mi.knoacc.org/dl/mega?hash={{ page.episode.5.mg }}&name=Link&size=Ready', '_blank');return false;">MG</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code={{ page.episode.5.uc }}', '_blank');return false;">UC</a>
 {% if page.episode.6 %}
 ### Episode 6 {{ page.data.judul }}
 
-[UB](#){:.btn onclick="window.open('http://adfree.ga?dom=uptobox.com&{{ page.episode.6.ub }}&name=Link&size=Ready', '_blank');return false;"} [DA](#){:.btn onclick="window.open('http://adfree.ga?dom=downace.com&{{ page.episode.6.da }}&name=Link&size=Ready', '_blank');return false;"} [TF](#){:.btn onclick="window.open('http://adfree.ga?dom=tusfiles.net&{{ page.episode.6.tf }}&name=Link&size=Ready', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?hash={{ page.episode.6.mg }}&name=Link&size=Ready', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code={{ page.episode.6.uc }}', '_blank');return false;"}
-
-{% endif %}
+<a class="btn" href="#" onclick="http://adfree.ga?dom=uptobox.com&{{ page.episode.6.ub }}&name=Link&size=Ready', '_blank');return false;">UB</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?dom=downace.com&{{ page.episode.6.da }}&name=Link&size=Ready', '_blank');return false;">DA</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?dom=tusfiles.net&{{ page.episode.6.tf }}&name=Link&size=Ready', '_blank');return false;">TF</a> <a class="btn" href="#" onclick="window.open('https://mi.knoacc.org/dl/mega?hash={{ page.episode.6.mg }}&name=Link&size=Ready', '_blank');return false;">MG</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code={{ page.episode.6.uc }}', '_blank');return false;">UC</a>
 {% if page.episode.7 %}
 ### Episode 7 {{ page.data.judul }}
 
-[UB](#){:.btn onclick="window.open('http://adfree.ga?dom=uptobox.com&{{ page.episode.7.ub }}&name=Link&size=Ready', '_blank');return false;"} [DA](#){:.btn onclick="window.open('http://adfree.ga?dom=downace.com&{{ page.episode.7.da }}&name=Link&size=Ready', '_blank');return false;"} [TF](#){:.btn onclick="window.open('http://adfree.ga?dom=tusfiles.net&{{ page.episode.7.tf }}&name=Link&size=Ready', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?hash={{ page.episode.7.mg }}&name=Link&size=Ready', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code={{ page.episode.7.uc }}', '_blank');return false;"}
-
-{% endif %}
+<a class="btn" href="#" onclick="http://adfree.ga?dom=uptobox.com&{{ page.episode.7.ub }}&name=Link&size=Ready', '_blank');return false;">UB</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?dom=downace.com&{{ page.episode.7.da }}&name=Link&size=Ready', '_blank');return false;">DA</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?dom=tusfiles.net&{{ page.episode.7.tf }}&name=Link&size=Ready', '_blank');return false;">TF</a> <a class="btn" href="#" onclick="window.open('https://mi.knoacc.org/dl/mega?hash={{ page.episode.7.mg }}&name=Link&size=Ready', '_blank');return false;">MG</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code={{ page.episode.7.uc }}', '_blank');return false;">UC</a>
 {% if page.episode.8 %}
 ### Episode 8 {{ page.data.judul }}
 
-[UB](#){:.btn onclick="window.open('http://adfree.ga?dom=uptobox.com&{{ page.episode.8.ub }}&name=Link&size=Ready', '_blank');return false;"} [DA](#){:.btn onclick="window.open('http://adfree.ga?dom=downace.com&{{ page.episode.8.da }}&name=Link&size=Ready', '_blank');return false;"} [TF](#){:.btn onclick="window.open('http://adfree.ga?dom=tusfiles.net&{{ page.episode.8.tf }}&name=Link&size=Ready', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?hash={{ page.episode.8.mg }}&name=Link&size=Ready', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code={{ page.episode.8.uc }}', '_blank');return false;"}
-
-{% endif %}
+<a class="btn" href="#" onclick="http://adfree.ga?dom=uptobox.com&{{ page.episode.8.ub }}&name=Link&size=Ready', '_blank');return false;">UB</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?dom=downace.com&{{ page.episode.8.da }}&name=Link&size=Ready', '_blank');return false;">DA</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?dom=tusfiles.net&{{ page.episode.8.tf }}&name=Link&size=Ready', '_blank');return false;">TF</a> <a class="btn" href="#" onclick="window.open('https://mi.knoacc.org/dl/mega?hash={{ page.episode.8.mg }}&name=Link&size=Ready', '_blank');return false;">MG</a> <a class="btn" href="#" onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code={{ page.episode.8.uc }}', '_blank');return false;">UC</a>
 
 > Catatan Server: UB: uptobox.com, DA: downace.com, TF: tusfiles.net, MG: mega.nz, UC: userscloud.com
