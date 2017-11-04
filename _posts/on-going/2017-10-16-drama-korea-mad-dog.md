@@ -7,7 +7,7 @@ image:
 category: on-going
 tags: [k-drama 2017, KBS2, drakor mad dog]
 share: true
-modified: 2017-10-26T02:17:09+07:00
+modified: 2017-11-02T02:17:09+07:00
 ---
 {% if page.excerpt %}
 ### Sinopsis
@@ -99,3 +99,23 @@ modified: 2017-10-26T02:17:09+07:00
 **540p**
 
 [TF](#){:.btn onclick="window.open('http://adfree.ga?dom=tusfiles.net&code=gpt9y8qu9pnk&name=Link&size=Ready', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?hash=pu4XhJzS!xtAGfJTwLAfcRN_671cRchmkGat2NbQ_cynSQ0WuEJQ&name=Link&size=Ready', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=p2y05vzdzvoc', '_blank');return false;"} [DA](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=downace.com&code=gogM', '_blank');return false;"} [UB](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=uptobox.com&code=bv4v5r5ukyxa', '_blank');return false;"}
+
+
+
+### Episode 7
+**480p** 
+
+[TF](#){:.btn onclick="window.open('http://adfree.ga?dom=tusfiles.net&name=Link&size=Ready&code=w2e9l7f716z7', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=Mj5gAIaJ!UKZDt6cLUD98imFB2NWC43DeugO9lHptzYh-hULp1mM', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=pmt2hlz3qgj9', '_blank');return false;"} [DA](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=downace.com&code=86uk', '_blank');return false;"} [UB](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=uptobox.com&code=q8ljnf0bhrzy', '_blank');return false;"}
+
+**540p**
+
+[TF](#){:.btn onclick="window.open('http://adfree.ga?dom=tusfiles.net&code=glu7uocacjen&name=Link&size=Ready', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?hash=knYkCAiK!p-XjvZ89mncTIsz8vcNDttwasY9Bihgi6jfwQ_EWyZU&name=Link&size=Ready', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=n2hmfwsgs4dp', '_blank');return false;"} [DA](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=downace.com&code=86ul', '_blank');return false;"} [UB](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=uptobox.com&code=g0ryr4bqf4ar', '_blank');return false;"}
+
+### Episode 8
+**480p** 
+
+[TF](#){:.btn onclick="window.open('http://adfree.ga?dom=tusfiles.net&name=Link&size=Ready&code=5gi4xqaanrbo', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?name=Link&size=Ready&hash=w6YGgYhQ!QGJ11n0laP4ulP-DadCaGQHcdc-WN2l_3ZE5_b7JP2A', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=9bo0lxl9r77z', '_blank');return false;"} [DA](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=downace.com&code=87q4', '_blank');return false;"} [UB](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=uptobox.com&code=t6to69h1aysp', '_blank');return false;"}
+
+**540p**
+
+[TF](#){:.btn onclick="window.open('http://adfree.ga?dom=tusfiles.net&code=962pxl4ezqtz&name=Link&size=Ready', '_blank');return false;"} [MG](#){:.btn onclick="window.open('https://mi.knoacc.org/dl/mega?hash=o7QQhKhL!7RKWugVbWUtVr7byOpzySVrMN2ZMfrPE8WzsNtKQTj4&name=Link&size=Ready', '_blank');return false;"} [UC](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=userscloud.com&code=7mb6nxjf1r0l', '_blank');return false;"} [DA](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=downace.com&code=87q5', '_blank');return false;"} [UB](#){:.btn onclick="window.open('http://adfree.ga?name=Link&size=Ready&dom=uptobox.com&code=zer41q9h283x', '_blank');return false;"}
