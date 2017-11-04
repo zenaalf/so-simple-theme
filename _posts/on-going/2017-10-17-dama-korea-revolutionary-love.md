@@ -15,7 +15,7 @@ modified: 2017-10-25T16:17:09+07:00
 
 {{ page.excerpt }}
 {% endif %}
-## Detail Drama Mad Dog :
+## Detail Revolutionary Love :
 
 - Judul: Revolutionary Love / Byun Hyuk’s Love
 - Judul Lain : 변혁의 사랑 / Byunhyukui Sarang.
@@ -31,7 +31,7 @@ modified: 2017-10-25T16:17:09+07:00
 
 ### Pemain Utama
 
-<figure><img src="https://i2.wp.com/reviewdramaasia.com/wp-content/uploads/2017/10/Revolutionery-Love-Korean-Drama-2017-1.png?resize=494%2C278" alt="Revolutionery Love Korean Drama 2017 - 1" srcset="https://i1.wp.com/reviewdramaasia.com/wp-content/uploads/2017/10/Revolutionery-Love-Korean-Drama-2017-1.png?resize=300%2C169 300w, https://i2.wp.com/reviewdramaasia.com/wp-content/uploads/2017/10/Revolutionery-Love-Korean-Drama-2017-1.png?resize=768%2C432 768w, https://i2.wp.com/reviewdramaasia.com/wp-content/uploads/2017/10/Revolutionery-Love-Korean-Drama-2017-1.png?resize=600%2C338 600w, https://i0.wp.com/reviewdramaasia.com/wp-content/uploads/2017/10/Revolutionery-Love-Korean-Drama-2017-1.png?w=849 849w" sizes="(max-width: 494px) 100vw, 494px" data-recalc-dims="1" /></figcaption>Choi Si-Won sebagai Byun Hyuk</figcaption></figure>
+<figure><img src="https://i2.wp.com/reviewdramaasia.com/wp-content/uploads/2017/10/Revolutionery-Love-Korean-Drama-2017-1.png?resize=494%2C278" alt="Revolutionery Love Korean Drama 2017 - 1" srcset="https://i1.wp.com/reviewdramaasia.com/wp-content/uploads/2017/10/Revolutionery-Love-Korean-Drama-2017-1.png?resize=300%2C169 300w, https://i2.wp.com/reviewdramaasia.com/wp-content/uploads/2017/10/Revolutionery-Love-Korean-Drama-2017-1.png?resize=768%2C432 768w, https://i2.wp.com/reviewdramaasia.com/wp-content/uploads/2017/10/Revolutionery-Love-Korean-Drama-2017-1.png?resize=600%2C338 600w, https://i0.wp.com/reviewdramaasia.com/wp-content/uploads/2017/10/Revolutionery-Love-Korean-Drama-2017-1.png?w=849 849w" sizes="(max-width: 494px) 100vw, 494px" data-recalc-dims="1" /><figcaption>Choi Si-Won sebagai Byun Hyuk</figcaption></figure>
 
 Anak ke 2 dari konglomerat generasi ke 3. Dia seseorang yang lucu,naiv, dan polos. Dia sika membuat masalah apapun yang dia lakukan tanpa sengaja. Sifat cerobohnya inilah yang membuat semua orang disekitarnya mendapat masalah.
 
