@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Revolutionary Love 변혁의 사랑 - 2017"
-excerpt: "Byun Hyuk (Choi Si-Won) berasal dari keluarga konglomerat yang menjalankan perusahaan besar. Dia menjalani hidup yang bahagia tanpa ada tujuan spesial. Dia percaya diri dalam menghadapi wanita dan dia juga orang yang naiv dengan hati yang hangat. Byun Hyuk mulai hidup di tempat kecil di wilayah miskin. Dia menyembunyikan backgroundnya.
-
-Baek Joon (Kang So-Ra) tinggal di wilayah yang sama. Dia bekerja paruh waktu untuk kebutuhannya. Baek joon lulusan dari universitas yang bagus namun dia tidak mau menjadi karyawan di peruaahaan dan mengambil pekerjaan paruh waktu. Dia berpikiran positif dan penuh dengan keadilan. Namun hidupnya mulai berubah setelah bertemu dengan Byun Hyuk."
+excerpt: "Byun Hyuk (Choi Si-Won) berasal dari keluarga konglomerat yang menjalankan perusahaan besar. Dia menjalani hidup yang bahagia tanpa ada tujuan spesial. Dia percaya diri dalam menghadapi wanita dan dia juga orang yang naiv dengan hati yang hangat. Byun Hyuk mulai hidup di tempat kecil di wilayah miskin. Dia menyembunyikan background-nya"
+excerpt2: "Baek Joon (Kang So-Ra) tinggal di wilayah yang sama. Dia bekerja paruh waktu untuk kebutuhannya. Baek joon lulusan dari universitas yang bagus namun dia tidak mau menjadi karyawan di peruaahaan dan mengambil pekerjaan paruh waktu. Dia berpikiran positif dan penuh dengan keadilan. Namun hidupnya mulai berubah setelah bertemu dengan Byun Hyuk."
 image:
  featureext: "https://i0.wp.com/reviewdramaasia.com/wp-content/uploads/2017/10/revolutionary-love-byeonhyeogui-sarangbyun-hyuks-love-love-of-transformation.jpg?resize=600%2C300"
 category: on-going
@@ -14,6 +13,11 @@ modified: 2017-10-25T16:17:09+07:00
 ### Sinopsis
 
 {{ page.excerpt }}
+
+{% if page.excerpt2 %}
+
+{{ page.excerpt2 }}
+{% endif %}
 {% endif %}
 ## Detail Revolutionary Love :
 
@@ -64,7 +68,7 @@ Manager muda yang bekerja di perusahaan ayah Byun hyuk. Dia juga merupakan teman
 
 ## Teaser Preview Revolutionary Love
 
-<iframe src="https://www.youtube.com/embed/https://m.youtube.com/1nHQKQXO6pc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/1nHQKQXO6pc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## Link Download Revolutionary Love
 
